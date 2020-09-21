@@ -1,0 +1,13 @@
+- AVERAGE
+- COUNT
+- MAX
+- MIN
+- SUM
+- LIKE
+...
+
+Clauses:
+- LIMIT
+- ORDER BY
+- GROUP BY
+- HAVING
